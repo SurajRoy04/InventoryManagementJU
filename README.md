@@ -1,0 +1,2 @@
+# InventoryManagementJU
+Inventory management application
